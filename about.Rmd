@@ -1,0 +1,10 @@
+---
+title: "About"
+description: |
+  This is my personal website! Yay!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

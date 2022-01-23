@@ -1,0 +1,17 @@
+---
+title: "Margaret Hammond"
+image: "profesh.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/margaret-hammond-202538156/"
+  - label: GitHub
+    url: "https://github.com/mbhammond"
+  - label: Email
+    url: "mailto:mbhammond@ucsb.bren.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+I am a classically trained data scientist living in the Santa Barbara area. 
+Currently I am a first year MESM student at the Bren School of Env. I love talking about true crime podcasts, and causal inference.

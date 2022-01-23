@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "This is my personal website! Yay!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-23T14:18:36-08:00"
+    },
+    {
+      "path": "blog.html",
+      "author": [],
+      "contents": "\r\ntitle: “Blog” listing: posts\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-23T14:18:39-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Margaret Hammond",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Margaret Hammond\r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Margaret Hammond\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I am a classically trained data scientist living in the Santa Barbara area. Currently I am a first year MESM student at the Bren School of Env. I love talking about true crime podcasts, and causal inference.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Margaret Hammond\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I am a classically trained data scientist living in the Santa Barbara area. Currently I am a first year MESM student at the Bren School of Env. I love talking about true crime podcasts, and causal inference.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-01-23T14:18:39-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
